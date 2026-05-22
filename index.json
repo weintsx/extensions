@@ -115,5 +115,23 @@
         "versionId": 1
       }
     ]
+  },
+  {
+    "name": "Tachiyomi: The Blank",
+    "pkg": "eu.kanade.tachiyomi.extension.en.theblank",
+    "apk": "tachiyomi-en.theblank-v1.4.55.apk",
+    "lang": "en",
+    "code": 55,
+    "version": "1.4.55",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "The Blank",
+        "lang": "en",
+        "id": "7514642512113015247",
+        "baseUrl": "https://theblank.net",
+        "versionId": 2
+      }
+    ]
   }
 ]
