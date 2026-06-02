@@ -117,6 +117,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Kagane",
+    "pkg": "eu.kanade.tachiyomi.extension.en.kagane",
+    "apk": "tachiyomi-en.kagane-v1.4.25.apk",
+    "lang": "en",
+    "code": 25,
+    "version": "1.4.25",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Kagane",
+        "lang": "en",
+        "id": "4024736764982024684",
+        "baseUrl": "https://kagane.to",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: The Blank",
     "pkg": "eu.kanade.tachiyomi.extension.en.theblank",
     "apk": "tachiyomi-en.theblank-v1.4.55.apk",
