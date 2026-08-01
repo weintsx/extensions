@@ -4,5 +4,273 @@
   "contact": {
     "website": "https://github.com/weintsx/extensions"
   },
-  "extensionList": {}
+  "extensionList": {
+    "extensions": [
+      {
+        "name": "Kagane",
+        "packageName": "eu.kanade.tachiyomi.extension.all.kagane",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/weintsx/extensions@main/apk/tachiyomi-all.kagane-v1.6.32.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/weintsx/extensions-source@main/src/all/kagane/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/weintsx/extensions/main/jar/tachiyomi-all.kagane-v1.6.32.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "32",
+        "versionName": "1.6.32",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "4024736764982024684",
+            "name": "Kagane",
+            "language": "en",
+            "homeUrl": "https://kagane.to"
+          },
+          {
+            "id": "1157710231944574609",
+            "name": "Kagane",
+            "language": "ja",
+            "homeUrl": "https://kagane.to"
+          },
+          {
+            "id": "1720654391539317254",
+            "name": "Kagane",
+            "language": "ko",
+            "homeUrl": "https://kagane.to"
+          },
+          {
+            "id": "538178062602483073",
+            "name": "Kagane",
+            "language": "zh",
+            "homeUrl": "https://kagane.to"
+          },
+          {
+            "id": "6291099060619088371",
+            "name": "Kagane",
+            "language": "es",
+            "homeUrl": "https://kagane.to"
+          },
+          {
+            "id": "3249170492103400191",
+            "name": "Kagane",
+            "language": "es-419",
+            "homeUrl": "https://kagane.to"
+          },
+          {
+            "id": "6053574930456302165",
+            "name": "Kagane",
+            "language": "fr",
+            "homeUrl": "https://kagane.to"
+          },
+          {
+            "id": "253007717341293260",
+            "name": "Kagane",
+            "language": "de",
+            "homeUrl": "https://kagane.to"
+          },
+          {
+            "id": "3281832279225761326",
+            "name": "Kagane",
+            "language": "pt",
+            "homeUrl": "https://kagane.to"
+          },
+          {
+            "id": "8929946374100381402",
+            "name": "Kagane",
+            "language": "pt-BR",
+            "homeUrl": "https://kagane.to"
+          },
+          {
+            "id": "8751507648303673848",
+            "name": "Kagane",
+            "language": "ru",
+            "homeUrl": "https://kagane.to"
+          },
+          {
+            "id": "1471532184931679941",
+            "name": "Kagane",
+            "language": "it",
+            "homeUrl": "https://kagane.to"
+          },
+          {
+            "id": "7702420917357144001",
+            "name": "Kagane",
+            "language": "id",
+            "homeUrl": "https://kagane.to"
+          },
+          {
+            "id": "8791972639916297003",
+            "name": "Kagane",
+            "language": "vi",
+            "homeUrl": "https://kagane.to"
+          },
+          {
+            "id": "2006734767320263070",
+            "name": "Kagane",
+            "language": "th",
+            "homeUrl": "https://kagane.to"
+          },
+          {
+            "id": "1008382500205235233",
+            "name": "Kagane",
+            "language": "pl",
+            "homeUrl": "https://kagane.to"
+          },
+          {
+            "id": "9016992318016575502",
+            "name": "Kagane",
+            "language": "hi",
+            "homeUrl": "https://kagane.to"
+          },
+          {
+            "id": "7861921616625741963",
+            "name": "Kagane",
+            "language": "ar",
+            "homeUrl": "https://kagane.to"
+          }
+        ]
+      },
+      {
+        "name": "NHentai",
+        "packageName": "eu.kanade.tachiyomi.extension.all.nhentai",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/weintsx/extensions@main/apk/tachiyomi-all.nhentai-v1.4.57.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/weintsx/extensions-source@main/src/all/nhentai/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/weintsx/extensions/main/jar/tachiyomi-all.nhentai-v1.4.57.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "57",
+        "versionName": "1.4.57",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "484834803285015286",
+            "name": "NHentai (english)",
+            "language": "en",
+            "homeUrl": "https://nhentai.net"
+          },
+          {
+            "id": "1015516214180045243",
+            "name": "NHentai (japanese)",
+            "language": "ja",
+            "homeUrl": "https://nhentai.net"
+          },
+          {
+            "id": "1209885616594656962",
+            "name": "NHentai (chinese)",
+            "language": "zh",
+            "homeUrl": "https://nhentai.net"
+          },
+          {
+            "id": "7309872737163460316",
+            "name": "NHentai",
+            "language": "all",
+            "homeUrl": "https://nhentai.net"
+          }
+        ]
+      },
+      {
+        "name": "Webtoons.com",
+        "packageName": "eu.kanade.tachiyomi.extension.all.webtoons",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/weintsx/extensions@main/apk/tachiyomi-all.webtoons-v1.4.57.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/weintsx/extensions-source@main/src/all/webtoons/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/weintsx/extensions/main/jar/tachiyomi-all.webtoons-v1.4.57.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "57",
+        "versionName": "1.4.57",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "2522335540328470744",
+            "name": "Webtoons.com",
+            "language": "en",
+            "homeUrl": "https://www.webtoons.com"
+          },
+          {
+            "id": "8749627068478740298",
+            "name": "Webtoons.com",
+            "language": "id",
+            "homeUrl": "https://www.webtoons.com"
+          },
+          {
+            "id": "3330861233813615504",
+            "name": "Webtoons.com",
+            "language": "th",
+            "homeUrl": "https://www.webtoons.com"
+          },
+          {
+            "id": "8664735734660636295",
+            "name": "Webtoons.com",
+            "language": "es",
+            "homeUrl": "https://www.webtoons.com"
+          },
+          {
+            "id": "8251758253314457060",
+            "name": "Webtoons.com",
+            "language": "fr",
+            "homeUrl": "https://www.webtoons.com"
+          },
+          {
+            "id": "2959982438613576472",
+            "name": "Webtoons.com",
+            "language": "zh-Hant",
+            "homeUrl": "https://www.webtoons.com"
+          },
+          {
+            "id": "1486822823904297379",
+            "name": "Webtoons.com",
+            "language": "de",
+            "homeUrl": "https://www.webtoons.com"
+          }
+        ]
+      },
+      {
+        "name": "Comix",
+        "packageName": "eu.kanade.tachiyomi.extension.en.comix",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/weintsx/extensions@main/apk/tachiyomi-en.comix-v1.4.35.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/weintsx/extensions-source@main/src/en/comix/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/weintsx/extensions/main/jar/tachiyomi-en.comix-v1.4.35.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "35",
+        "versionName": "1.4.35",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "7537715367149829912",
+            "name": "Comix",
+            "language": "en",
+            "homeUrl": "https://comix.to",
+            "mirrorUrls": [
+              "https://comix.to",
+              "https://comix.ws"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "The Blank",
+        "packageName": "eu.kanade.tachiyomi.extension.en.theblank",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/weintsx/extensions@main/apk/tachiyomi-en.theblank-v1.4.57.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/weintsx/extensions-source@main/src/en/theblank/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/weintsx/extensions/main/jar/tachiyomi-en.theblank-v1.4.57.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "57",
+        "versionName": "1.4.57",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "7514642512113015247",
+            "name": "The Blank",
+            "language": "en",
+            "homeUrl": "https://theblank.net"
+          }
+        ]
+      }
+    ]
+  }
 }
