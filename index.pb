@@ -1,5 +1,5 @@
 
-BylateBYLATE"'
+BylateBYLATE@a553771bfcd71759bf3b051f41614fb37f11043d2f5d0f452b0d9af894a0b45e"'
 %https://github.com/weintsx/extensionsª±
 ú
 Kagane(eu.kanade.tachiyomi.extension.all.kagane§
